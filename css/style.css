@@ -368,10 +368,10 @@ background-color: white;
 
 }
 
-.nav-link {
+.nav-link , a{
 
-    color: var(--cor-acento);
-
+    color: #0037ff;
+    font-size: 0.9rem;
     text-decoration: none;
 
     font-weight: bold;
@@ -379,7 +379,7 @@ background-color: white;
 }
 
 .nav-link:hover {
-
+    color: #0037ff;
     text-decoration: underline;
 
 }
